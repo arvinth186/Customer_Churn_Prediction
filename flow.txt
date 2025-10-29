@@ -1,0 +1,7 @@
+sequential network
+Dense 
+Activation function -> Relu
+optimizer -> Back propogation -> updating weights
+loss function
+Metrices -> accuracy
+Training -> logs saved -> Tensorboard -> visualize
